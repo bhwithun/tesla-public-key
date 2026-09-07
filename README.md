@@ -12,7 +12,7 @@ Tesla requires this exact path on the Allowed Origin domain: HTTP 200, no redire
 - `public/_headers` — `Content-Type: application/x-pem-file` on that path
 - No SPA fallback, no Functions, no `_redirects`
 
-The matching private key is **not** in this repo. It lives at `%USERPROFILE%\.tesla-fleet\private-key.pem`.
+The matching private key is **not** in this repo. It is the key grok-bot generated with this public PEM. Do not use `%USERPROFILE%\.tesla-fleet\private-key.pem` — that was an unused local pair.
 
 ## Deploy
 
