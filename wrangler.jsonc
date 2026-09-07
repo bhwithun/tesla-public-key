@@ -1,6 +1,8 @@
 {
   "name": "tesla-public-key",
   "compatibility_date": "2026-09-07",
+  "workers_dev": true,
+  "preview_urls": true,
   "assets": {
     "directory": "./public",
     "html_handling": "none",
