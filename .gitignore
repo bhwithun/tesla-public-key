@@ -1,0 +1,6 @@
+.wrangler/
+node_modules/
+secrets/
+private-key.pem
+*.key
+.DS_Store

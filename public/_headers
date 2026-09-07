@@ -1,0 +1,4 @@
+/.well-known/appspecific/com.tesla.3p.public-key.pem
+  Content-Type: application/x-pem-file
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=300

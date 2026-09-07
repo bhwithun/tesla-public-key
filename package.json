@@ -1,0 +1,12 @@
+{
+  "name": "tesla-public-key",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "deploy:pages": "wrangler pages deploy public --project-name=tesla-public-key"
+  },
+  "devDependencies": {
+    "wrangler": "^4.129.1"
+  }
+}
